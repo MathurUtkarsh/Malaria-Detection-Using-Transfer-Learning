@@ -1,1 +1,1 @@
-# Malaria-Detection-Using-Transfer-Learning
+# Malaria Detection Using Transfer Learning
